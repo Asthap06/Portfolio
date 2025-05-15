@@ -207,6 +207,7 @@ nav .right a span {
     margin-bottom: 15px;
     background-color: transparent;
     resize: none;
+    outline: none;
 }
 .contact-section .group  form button {
     font-size: 16px;
