@@ -203,11 +203,12 @@ nav .right a span {
 .contact-section .group form textarea {
     font-family: 'Poppins', sans-serif;
     padding: 10px;
-    border: 2px solid blue;
+    border: 2px solid var(--link-color);
     margin-bottom: 15px;
     background-color: transparent;
     resize: none;
     outline: none;
+    
 }
 .contact-section .group  form button {
     font-size: 16px;
